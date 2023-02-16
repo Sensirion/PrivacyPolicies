@@ -12,15 +12,14 @@ This ControlCenter Privacy Notice is in addition to the Sensirion Privacy Notice
         - Other information you provide directly to us. You may have the option to submit additional information as you use ControlCenter and Dataviewer. For example, you may participate in surveys where you can provide feedback on the product, which requires that you provide additional information about your device, yourself or your company.
     * 1.2 Information we collect automatically, this includes
         - Information about your device. We collect information about the device you are using to access the services. This includes information like operating system information, screen size and browser information.
-
         - Information about your use of the apps or websites. We collect log and event information related to how and when you use our services (such as the sensors connected).
-    * 1.3 Information we receive from other sources, including third parties, and combine that      information with the other information we have about you.
-        - 1.3.1 We use Mixpanel Analytics, an analytics service provided by Mixpanel Inc. (“Mixpanel”). For more information on how Mixpanel uses this data, please visit Terms of Use | Legal | Mixpanel.
+    * 1.3 Information we receive from other sources, including third parties, and combine that information with the other information we have about you.  
+        - 1.3.1 We use Mixpanel Analytics, an analytics service provided by Mixpanel Inc. (“Mixpanel”). For more information on how Mixpanel uses this data, please visit Terms of Use \| Legal \| Mixpanel.
 
 2. How we use your information  
     * We use your information for the following purposes:  
         - To provide customer service. We use your information to respond to your questions about our products and services, and to investigate bugs or other issues.
-        - To report on our company’s performance. We use your information to track the fundamental metrics of our business, to perform financial reporting, to respond to regulatory obligations, and to debug billing issues.  
+        - To report on our company’s performance. We use your information to track the fundamental metrics of our business, to perform financial reporting, to respond to regulatory obligations, and to debug billing issues.
         - To improve our services. We use your information to help us understand how users interact with our services, what features or products users may want, or to otherwise understand and improve our services. This includes information about how you use our services. As discussed in the ”How to control your privacy” section below, you can control whether your data is used for these purposes.
 
     _With your consent_  
