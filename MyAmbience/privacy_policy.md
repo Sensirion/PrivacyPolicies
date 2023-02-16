@@ -20,7 +20,7 @@ This Myambience Privacy Notice is in addition to the Sensirion Privacy Notice an
    - Information about your device. We collect information about the device you are using to access the services. This includes information like operating system information, screen size and browser information.
    - Information about your use of the apps or websites. We collect log and event information related to how and when you use our services (such as the sensors connected).
    3. Information we receive from other sources, including third parties, and combine that information with the other information we have about you.
-      1. We use Mixpanel Analytics, an analytics service provided by Mixpanel Inc. (“Mixpanel”). For more information on how Mixpanel uses this data, please visit Terms of Use | Legal | Mixpanel.
+      1. We use Mixpanel Analytics, an analytics service provided by Mixpanel Inc. (“Mixpanel”). For more information on how Mixpanel uses this data, please visit Terms of Use \| Legal \| Mixpanel.
       2. In order to collect the above mentioned information, we rely on the default services provided by the Android and iOS operating systems.
 2. How we use your information
 3. We use your information for the following purposes:
