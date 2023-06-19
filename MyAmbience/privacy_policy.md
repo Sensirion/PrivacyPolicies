@@ -1,5 +1,7 @@
 # MyAmbience Privacy Policy
 
+**Disclaimer:** This Privacy Notice excludes China. The Sensirion Smart Gadget (“Device”) and the Sensirion MyAmbience mobile application thereto (“App”) is only available to Countries outside China. For China, a different mobile application is available with **no tracking of Personal Identifiable Information available.**
+
 This privacy policy outlines details about the data processing in relation to the Sensirion Smart Gadget (“Device”) and the Sensirion MyAmbience mobile application thereto (“App”). In addition, we adhere to the general, [Sensirion Privacy Notice](https://sensirion.com/legal-notice/privacy-notice/), and you have all rights mentioned therein.
 
 The Device allows tracking of environmental data, such as temperature, humidity and carbon dioxide. These data are saved locally onto the Device. The Device has a Bluetooth Low Energy (BLE) module which — when switched on — allows other Bluetooth enabled devices in the vicinity to connect to the Device and show current measured values as well as download saved data.
@@ -45,4 +47,4 @@ Laubisrütistrasse 50
 8712 Stäfa, Switzerland  
 [privacy@sensirion.com](mailto:privacy@sensirion.com)
 
-December 2022
+June 2023
