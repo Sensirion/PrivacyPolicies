@@ -1,5 +1,7 @@
 # ControlCenter and DataViewer Privacy Notice
 
+**Disclaimer:** This Privacy Notice excludes China. For China, a different version of ControlCenter and DataViewer (by Sensirion AG) is available **with no tracking of Personal Identifiable Information available.**
+
 The use of ControlCenter and DataViewer (by Sensirion AG) requires that we, Sensirion AG, collect, process, and store certain information about you and, as the case may be, your company. This includes information you provide to us, information we collect automatically, and information we receive from other sources. Such information may include personal data protected under data protection laws.
 
 Please see the full [Sensirion Privacy Notice](https://sensirion.com/legal-notice/privacy-notice/).
@@ -40,4 +42,4 @@ Laubisrütistrasse 50
 8712 Stäfa, Switzerland  
 [privacy@sensirion.com](mailto:privacy@sensirion.com)
 
-December 2022
+June 2023
